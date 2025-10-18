@@ -1,0 +1,40 @@
+{
+  "frames": [
+    {
+      "filename": "the_end",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 394,
+        "h": 117
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 394,
+        "h": 117
+      },
+      "sourceSize": {
+        "w": 394,
+        "h": 117
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "captiveDiedMsgs.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 512,
+      "h": 128
+    },
+    "scale": 1
+  }
+}

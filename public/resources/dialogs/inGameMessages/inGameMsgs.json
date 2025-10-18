@@ -1,0 +1,440 @@
+{
+  "frames": [
+    {
+      "filename": "joke5",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 1,
+        "w": 256,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 267,
+        "h": 140
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "joke4",
+      "frame": {
+        "x": 0,
+        "y": 137,
+        "w": 246,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 1,
+        "w": 246,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 267,
+        "h": 141
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "joke1",
+      "frame": {
+        "x": 0,
+        "y": 274,
+        "w": 261,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 261,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 267,
+        "h": 150
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "captive_saved_msg3",
+      "frame": {
+        "x": 0,
+        "y": 395,
+        "w": 278,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 0,
+        "w": 278,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 288,
+        "h": 100
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "captive_saved_msg4",
+      "frame": {
+        "x": 246,
+        "y": 137,
+        "w": 284,
+        "h": 99
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 1,
+        "w": 284,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 292,
+        "h": 100
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "captive_saved_msg6",
+      "frame": {
+        "x": 246,
+        "y": 236,
+        "w": 128,
+        "h": 30
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 1,
+        "w": 128,
+        "h": 30
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 35
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "coffee_msg4",
+      "frame": {
+        "x": 261,
+        "y": 266,
+        "w": 204,
+        "h": 99
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 1,
+        "w": 204,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 267,
+        "h": 100
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "captive_saved_msg1",
+      "frame": {
+        "x": 374,
+        "y": 236,
+        "w": 139,
+        "h": 27
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 5,
+        "w": 139,
+        "h": 27
+      },
+      "sourceSize": {
+        "w": 152,
+        "h": 38
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "coffee_msg3",
+      "frame": {
+        "x": 261,
+        "y": 365,
+        "w": 59,
+        "h": 20
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 9,
+        "w": 59,
+        "h": 20
+      },
+      "sourceSize": {
+        "w": 108,
+        "h": 42
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "captive_saved_msg5",
+      "frame": {
+        "x": 278,
+        "y": 385,
+        "w": 276,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 1,
+        "w": 276,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 292,
+        "h": 100
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "coffee_msg1",
+      "frame": {
+        "x": 320,
+        "y": 365,
+        "w": 155,
+        "h": 19
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 18,
+        "w": 155,
+        "h": 19
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 50
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "captive_saved_msg8",
+      "frame": {
+        "x": 465,
+        "y": 263,
+        "w": 242,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 0,
+        "w": 242,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 267,
+        "h": 100
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "coffee_msg2",
+      "frame": {
+        "x": 256,
+        "y": 0,
+        "w": 242,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 2,
+        "w": 242,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 267,
+        "h": 100
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "captive_saved_msg7",
+      "frame": {
+        "x": 707,
+        "y": 0,
+        "w": 250,
+        "h": 63
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 2,
+        "w": 250,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 267,
+        "h": 67
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "captive_saved_msg2",
+      "frame": {
+        "x": 498,
+        "y": 63,
+        "w": 241,
+        "h": 65
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 3,
+        "w": 241,
+        "h": 65
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 69
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "joke3",
+      "frame": {
+        "x": 530,
+        "y": 0,
+        "w": 150,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 150,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 183,
+        "h": 74
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "joke2",
+      "frame": {
+        "x": 530,
+        "y": 128,
+        "w": 143,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 5,
+        "w": 143,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 158,
+        "h": 66
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "inGameMsgs.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 512
+    },
+    "scale": 1
+  }
+}

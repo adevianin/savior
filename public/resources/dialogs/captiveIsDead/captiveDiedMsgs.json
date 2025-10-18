@@ -1,0 +1,65 @@
+{
+  "frames": [
+    {
+      "filename": "msg2",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1000,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1000,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 1000,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "msg1",
+      "frame": {
+        "x": 0,
+        "y": 110,
+        "w": 1000,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1000,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 1000,
+        "h": 101
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "captiveDiedMsgs.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 256
+    },
+    "scale": 1
+  }
+}

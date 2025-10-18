@@ -1,0 +1,115 @@
+{
+  "frames": [
+    {
+      "filename": "msg3",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1000,
+        "h": 230
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1000,
+        "h": 230
+      },
+      "sourceSize": {
+        "w": 1000,
+        "h": 230
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "msg4",
+      "frame": {
+        "x": 0,
+        "y": 230,
+        "w": 1000,
+        "h": 183
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1000,
+        "h": 183
+      },
+      "sourceSize": {
+        "w": 1000,
+        "h": 183
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "msg2",
+      "frame": {
+        "x": 0,
+        "y": 413,
+        "w": 1000,
+        "h": 160
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1000,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 1000,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "msg1",
+      "frame": {
+        "x": 0,
+        "y": 573,
+        "w": 1000,
+        "h": 140
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1000,
+        "h": 140
+      },
+      "sourceSize": {
+        "w": 1000,
+        "h": 140
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "introMessages.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 1024
+    },
+    "scale": 1
+  }
+}
