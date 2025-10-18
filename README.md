@@ -1,3 +1,5 @@
+A simple 2D browser-based game with a storyline. Built using melonJS.
+
 🎥 **Watch Gameplay:** [YouTube Video](https://www.youtube.com/watch?v=gT70dhuGI08)
 
 ![screenshot1](screenshot1.png)
